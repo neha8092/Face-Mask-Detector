@@ -18,7 +18,7 @@
  -- Result will be stored in the darknet folder with the name "Output.avi"
  
  
-#### Below are the steps for inferencing the model on a video:-
+#### Below are the steps for inferencing the model on a image:-
 Run the below command on the command line for images to be tested:
 
 ./darknet detector test ./build/darknet/x64/data/obj.data cfg/yolo-obj.cfg ./backup/yolo-obj_best.weights -ext_output /data/logo_detection/hack/test/test1.jpg
