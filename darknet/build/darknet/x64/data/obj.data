@@ -1,0 +1,4 @@
+classes= 2
+train  = /data/logo_detection/Hackathon/darknet/build/darknet/x64/data/train.txt
+names = /data/logo_detection/Hackathon/darknet/build/darknet/x64/data/obj.names
+backup = backup/
